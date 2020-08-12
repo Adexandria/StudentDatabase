@@ -29,6 +29,14 @@ namespace StudentDatabase.Profiles
                 .ForMember(de => de.State, opt => opt.MapFrom(src => src.State))
                 .ForMember(de => de.Gender, opt => opt.MapFrom(src => src.Gender))
                 .ForMember(de => de.Classes, opt => opt.MapFrom(src => src.Classes));
+            CreateMap<StudentUpdate, Student>()
+               .ForMember(dest => dest.FirstName, opt => opt.MapFrom(src => src.FirstName))
+               .ForMember(dest => dest.MiddleName, opt => opt.MapFrom(src => src.MiddleName))
+               .ForMember(dest => dest.LastName, opt => opt.MapFrom(src => src.LastName))
+                .ForMember(dest => dest.DateOfBirth, opt => opt.MapFrom(src => src.DateOfBirth))
+               .ForMember(de => de.State, opt => opt.MapFrom(src => src.State))
+               .ForMember(de => de.Gender, opt => opt.MapFrom(src => src.Gender))
+               .ForMember(de => de.Classes, opt => opt.MapFrom(src => src.Classes));
         }
     }
 }

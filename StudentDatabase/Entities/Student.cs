@@ -13,7 +13,7 @@ namespace StudentDatabase.Entities
         [Required]
         [MaxLength(20)]
         public string FirstName { get; set; }
-        [Required]
+
         [MaxLength(20)]
         public string MiddleName { get; set; }
         [Required]

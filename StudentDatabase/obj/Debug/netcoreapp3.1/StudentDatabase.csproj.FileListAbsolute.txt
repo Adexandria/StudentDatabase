@@ -59,8 +59,6 @@ C:\Users\HP 650\source\repos\StudentDatabase\StudentDatabase\bin\Debug\netcoreap
 C:\Users\HP 650\source\repos\StudentDatabase\StudentDatabase\bin\Debug\netcoreapp3.1\StudentDatabase.runtimeconfig.dev.json
 C:\Users\HP 650\source\repos\StudentDatabase\StudentDatabase\bin\Debug\netcoreapp3.1\StudentDatabase.dll
 C:\Users\HP 650\source\repos\StudentDatabase\StudentDatabase\bin\Debug\netcoreapp3.1\StudentDatabase.pdb
-C:\Users\HP 650\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.csproj.CoreCompileInputs.cache
-C:\Users\HP 650\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\HP 650\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.dll
 C:\Users\HP 650\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.pdb
 C:\Users\HP 650\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.genruntimeconfig.cache

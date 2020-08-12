@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace StudentDatabase.View
 {
-    public class StudentCreation :StudentManipulation
+    public class StudentUpdate :StudentManipulation
     {
-        
+        [Required(ErrorMessage ="Enter Id")]
+        public Guid Id { get; set; }
     }
 }
